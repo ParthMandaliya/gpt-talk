@@ -1,0 +1,1 @@
+pyuic5 C:\Users\parth\OneDrive\Desktop\Git\gpt-talk -o gpt-talk.py
